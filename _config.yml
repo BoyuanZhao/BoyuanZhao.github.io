@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Boyuan Zhao/ Mr"
 title_separator          : "-"
 name                     : "Boyuan Zhao"
-description              : ‘Third year PhD student"
+description              : "Third year PhD student"
 url                      : "https://BoyuanZhao.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "BoyuanZhao/BoyuanZhao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
