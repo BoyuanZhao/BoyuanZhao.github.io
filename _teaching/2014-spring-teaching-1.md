@@ -2,7 +2,7 @@
 title: "MT2502 Analysis"
 collection: teaching
 type: "Undergraduate tutorials"
-permalink: /teaching/2014-spring-teaching-1
+permalink: #/teaching/2014-spring-teaching-1
 venue: "University of St Andrews"
 date: 2021,2022,2023
 location: #"City, Country"
