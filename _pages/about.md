@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Mathematic PhD student at the University of St Andrews, UK. My research area is ergodic theory and dynamical systems, in particular, thermodynamic formalism of countable state symbolic system and interval maps. I am primarily supervised by [Prof Mike Todd](https://mtoddm.github.io/). You can find my CV [here](../assets/CV.pdf) I am supported by the Chinese Scholarship Council. <br>
+I am a third year Mathematic PhD student at the University of St Andrews, supported by the Chinese Scholarship Council. My research area is ergodic theory and dynamical systems, in particular, thermodynamic formalism of countable state symbolic system and interval maps. I am primarily supervised by [Prof Mike Todd](https://mtoddm.github.io/). You can find my CV [here](../assets/CV.pdf). <br>
 I completed my BSc Mathematics with Modern languages at University College London in 2020 and MSc Mathematics at University of St Andrews 2021. 
 
 # Publications
 <p>
-  Here is a list of my publications 
+  Here is a list of my publications <br>
+  1. <em>Closest distance between iterates of typical points</em>, Discrete and Continuous Dynam. Systems, Early Access, March 2024. [pdf](https://www.aimsciences.org/article/doi/10.3934/dcds.2024026)<br>
+  2. <em>Countable Markov shifts with exponential mixing</em>, preprint, 2024. [pdf](https://arxiv.org/abs/2403.02092)
 </p>
+
+# Other interests
+<p>I am very keen at distance running, can also speak Spanish (B2 level) and Portuguese at conversational level.</p>
