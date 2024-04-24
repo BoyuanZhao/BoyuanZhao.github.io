@@ -1,11 +1,11 @@
 ---
 title: "Closest distance between iterates of typical points"
 collection: publications
-permalink: #
+permalink: /publication/DCDS1
 excerpt: 'Keywrods: Renyi entropy, correlation dimension, dynamical Borel-Cantelli lemmas'
 date: March 2024
 venue: 'DCDS'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://BoyuanZhao.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
