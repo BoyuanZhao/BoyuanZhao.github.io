@@ -14,7 +14,7 @@ I completed my BSc Mathematics with Modern languages at University College Londo
 <p>
   Here is a list of my publications <br>
   1. <em>Closest distance between iterates of typical points</em>, Discrete and Continuous Dynam. Systems, Early Access, March 2024. [pdf](https://www.aimsciences.org/article/doi/10.3934/dcds.2024026)<br>
-  2. <em>Countable Markov shifts with exponential mixing</em>, preprint, 2024. [pdf](https://arxiv.org/abs/2403.02092)
+  2. <em>Countable Markov shifts with exponential mixing</em>, preprint, 2024 [pdf](https://arxiv.org/abs/2403.02092).
 </p>
 
 # Other interests
