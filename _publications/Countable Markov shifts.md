@@ -1,7 +1,7 @@
 ---
 title: "Countable Markov shifts with exponential mixing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: https://arxiv.org/abs/2403.02092
 excerpt: "preprint"
 date: March-2024
 venue: #'Journal 1'
