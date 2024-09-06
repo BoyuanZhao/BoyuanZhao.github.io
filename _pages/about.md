@@ -22,11 +22,11 @@ Homeomorphisms</em>.</li>
 </ol>
   
 # Other stuff
-<p>I am a good distance runner and a huge fan of Irish/ Scottish music. I can also speak Spanish (B2 level) and Portuguese at conversational level.</p>
+<p>I am a good distance runner and an Irish/ Scottish flute player. I can also speak Spanish (B2 level) and Portuguese at conversational level.</p>
 
 # Recent Academic activities 
 <ol>
   <li> Attended <em>British Mathematical Colloquium<em>, Jun 2024, gave a contributed talk at the dynamical system seminar <em> Countable CMS with exponential mixing</em>.   
   <li> Attended <em>Workshop on Probabilistic methods in dynamics</em>, Dec 2023
-  <li> Attended <em>Thermodynamic Formalism: Non-additive Aspects and Related Topics</em>, May 2023  </li>
+  <li> Attended <em>Thermodynamic Formalism: Non-additive Aspects and Related Topics</em>, May 2023</li>
 </ol>
