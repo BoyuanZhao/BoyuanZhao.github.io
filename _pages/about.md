@@ -26,6 +26,7 @@ Homeomorphisms</em>.</li>
 
 # Recent Academic activities 
 <ol>
+  <li> Attended <em>British Mathematical Colloquium<em>, Jun 2024, gave a contributed talk at the dynamical system seminar <em> Countable CMS with exponential mixing</em>.</li>    
   <li> Attended <em>Workshop on Probabilistic methods in dynamics</em>, Dec 2023</li>
   <li> Attended <em>Thermodynamic Formalism: Non-additive Aspects and Related Topics</em>, May 2023  </li>
 </ol>
