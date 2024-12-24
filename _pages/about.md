@@ -18,7 +18,8 @@ I am a final year Mathematic PhD student at the University of St Andrews, suppor
 # Education 
 
  MSc Mathematics, University of St Andrews, 2021, Distinction, <em>Study of Minimal Sets of Circle
-Homeomorphisms</em>. [pdf](https://BoyuanZhao.github.io/files/Masterthesis.pdf)
+Homeomorphisms</em>. [pdf](https://BoyuanZhao.github.io/files/Masterthesis.pdf).
+
 BSc Mathematics with Modern Languages, University College London, 2020, First Class Honours.
 
   
