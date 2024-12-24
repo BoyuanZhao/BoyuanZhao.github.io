@@ -16,8 +16,7 @@ I am a final year Mathematic PhD student at the University of St Andrews, suppor
   3. <em>[Closest distance between iterates of typical points](https://www.aimsciences.org/article/doi/10.3934/dcds.2024026)</em>, Discrete Contin. Dyn. Syst. 44(8), (2024) 2252-2279. [pdf](https://BoyuanZhao.github.io/files/MinimalDistance.pdf)
 
 # Education 
-
- MSc Mathematics, University of St Andrews, 2021, Distinction, <em>Study of Minimal Sets of Circle
+MSc Mathematics, University of St Andrews, 2021, Distinction, <em>Study of Minimal Sets of Circle
 Homeomorphisms</em>. [pdf](https://BoyuanZhao.github.io/files/Masterthesis.pdf).
 
 BSc Mathematics with Modern Languages, University College London, 2020, First Class Honours.
