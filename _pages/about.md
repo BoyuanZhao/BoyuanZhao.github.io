@@ -12,7 +12,7 @@ I am a final year Mathematic PhD student at the University of St Andrews, suppor
 # Research Output
 
   1. <em>[Convergence of the Birkhoff spectrum for nonintegrable observables](https://arxiv.org/abs/2506.21390)</em>, (joint with Godofredo Iommi and Mike Todd) prerpint, 2025. [pdf](https://BoyuanZhao.github.io/files/mfa_cusp.pdf).
-  2. <em>[Almost sure cover times for dynamical systems with ψ-mixing property](https://arxiv.org/abs/2412.17425) </em>, In press, <em> Ergod. Theory Dynam. Syst.</em>, 2025. [pdf](https://BoyuanZhao.github.io/files/covertime.pdf)
+  2. <em>[Almost sure cover times for dynamical systems with ψ-mixing property](https://arxiv.org/abs/2412.17425) </em>, In press, <em> Ergod. Theory Dynam. Syst.</em>, 2025. [link](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1017%2Fetds.2025.10216&data=05%7C02%7Cbz29%40st-andrews.ac.uk%7C0a78446cc27c48c3f39708ddf77260ed%7Cf85626cb0da849d3aa5864ef678ef01a%7C0%7C0%7C638938792974368576%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PABFYZAA4PXKhzCQCYDk5S%2Fa%2BLyBHezTP8%2FYIWYje5c%3D&reserved=0)
   3. <em>[Countable Markov shifts with exponential mixing](https://arxiv.org/abs/2403.02092)</em>, (joint with Mike Todd) preprint, 2024. [pdf](https://BoyuanZhao.github.io/files/expCMS.pdf) <br>
   4. <em>[Closest distance between iterates of typical points](https://www.aimsciences.org/article/doi/10.3934/dcds.2024026)</em>, Discrete Contin. Dyn. Syst. 44(8), (2024) 2252-2279. [pdf](https://BoyuanZhao.github.io/files/MinimalDistance.pdf)
 
