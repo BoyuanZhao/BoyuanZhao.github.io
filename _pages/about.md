@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Mathematic PhD student at the University of St Andrews, supported by the Chinese Scholarship Council programme. My research area is **ergodic theory and dynamical systems**, in particular, I am interested in thermodynamic formalisms of countable-state symbolic systems and interval maps, and some of their statistical properties. I am supervised by [Mike Todd](https://mtoddm.github.io/) and [Kenneth Falconer](https://kennethfalconer.github.io/). You can find my CV [here](../assets/CV.pdf). <br>
+I just completed my PhD Mathematics at the University of St Andrews, supported by the Chinese Scholarship Council programme, and starting as a postdocotoral researcher at Beijing International Centre for Mathematical Research (BICMR) affiliated to the Peking University. My research area is **ergodic theory and dynamical systems**, in particular, I am interested in thermodynamic formalisms of countable-state symbolic systems and interval maps, and their statistical properties. I am supervised by [Mike Todd](https://mtoddm.github.io/) and [Kenneth Falconer](https://kennethfalconer.github.io/). You can find my CV [here](../assets/CV.pdf). <br>
 
 # Research Output
 
@@ -17,7 +17,7 @@ I am a final year Mathematic PhD student at the University of St Andrews, suppor
   4. <em>[Closest distance between iterates of typical points](https://www.aimsciences.org/article/doi/10.3934/dcds.2024026)</em>, Discrete Contin. Dyn. Syst. 44(8), (2024) 2252-2279. [pdf](https://BoyuanZhao.github.io/files/MinimalDistance.pdf)
 
 # Education 
-PhD Mathematics, University of St Andrews, 2021-2025, <em>Exponential mixing and almost sure limit theorems in dynamical systems. </em>
+PhD Mathematics, University of St Andrews, 2021-2025, Thesis: <em>Exponential mixing and almost sure limit theorems in dynamical systems. </em> [pdf](../assets/PhD Thesis.pdf)
 
 MSc Mathematics, University of St Andrews, 2021, Distinction, <em>Study of Minimal Sets of Circle
 Homeomorphisms</em>. [pdf](https://BoyuanZhao.github.io/files/Masterthesis.pdf).
