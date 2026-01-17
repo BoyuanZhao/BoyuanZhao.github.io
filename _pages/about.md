@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I just completed my PhD Mathematics at the University of St Andrews, supported by the Chinese Scholarship Council programme, and starting as a postdocotoral researcher at Beijing International Centre for Mathematical Research ([BICMR](https://bicmr.pku.edu.cn/content/lists/12_catid54_2.html) affiliated to the Peking University. My research area is **ergodic theory and dynamical systems**, in particular, I am interested in thermodynamic formalisms of countable-state symbolic systems and interval maps, and their statistical properties. I am supervised by [Mike Todd](https://mtoddm.github.io/) and [Kenneth Falconer](https://kennethfalconer.github.io/). You can find my CV [here](../assets/CV.pdf). <br>
+I just completed my PhD Mathematics at the University of St Andrews, supported by the Chinese Scholarship Council programme, and starting as a postdocotoral researcher at Beijing International Centre for Mathematical Research ([BICMR](https://bicmr.pku.edu.cn/content/lists/12_catid54_2.html)) affiliated to the Peking University. My research area is **ergodic theory and dynamical systems**, in particular, I am interested in thermodynamic formalisms of countable-state symbolic systems and interval maps, and their statistical properties. I am supervised by [Mike Todd](https://mtoddm.github.io/) and [Kenneth Falconer](https://kennethfalconer.github.io/). You can find my CV [here](../assets/CV.pdf). <br>
 
 # Research Output
 
