@@ -29,8 +29,11 @@ BSc Mathematics with Modern Languages, University College London, 2020, First Cl
 <p>I am a decent distance runner and an Irish/Scottish flute player. I can also speak Spanish (B2 level) and Portuguese at intermediate level.</p>
 
 # Recent Academic activities 
+  <li> Attended 'Frontiers in Dynamical Systems' at PKU, March 2026.</li>\
+  <li> Gave a talk on <em>Convergence Rate of Birkhoff spectrum for non-integrable observables </em> at the dynamical system seminar at PKU, March 2026.
+  <li> Attended 'British Mathematical Colloquium' at University of Exeter, June 2025.</li>
   <li> Attended 'Beyond Uniform Hyperbolicity II' at ICTP Trieste, June 2025. 
-  <li> Attended 'Scottish Dynamics Network', March 2025, gave a talk on <em>Almost sure cover times in dynamical systems</em>.
-  <li> Attended <em>British Mathematical Colloquium<em>, Jun 2024, gave a contributed talk at the dynamical system seminar <em> Countable CMS with exponential mixing</em>.   
-  <li> Attended <em>Workshop on Probabilistic methods in dynamics</em>, Dec 2023, gave a talk on <em>Shortest distance between iterates of typical points</em>.
-  <li> Attended <em>Thermodynamic Formalism: Non-additive Aspects and Related Topics</em>, May 2023</li>
+  <li> Attended 'Scottish Dynamics Network' at Heriot Watt University, March 2025, gave a talk on <em>Almost sure cover times in dynamical systems</em>.
+  <li> Attended 'British Mathematical Colloquium' at Manchester University, Jun 2024, gave a contributed talk at the dynamical system seminar <em> Countable CMS with exponential mixing</em>.   
+  <li> Attended 'Workshop on Probabilistic methods in dynamics' at CMUP (Porto), Dec 2023, gave a talk on <em>Shortest distance between iterates of typical points</em>.
+ 
