@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I just completed my PhD Mathematics at the University of St Andrews, supported by the Chinese Scholarship Council programme, and starting as a postdocotoral researcher at Beijing International Centre for Mathematical Research ([BICMR](https://bicmr.pku.edu.cn/content/lists/12_catid54_2.html)) affiliated to the Peking University. My research area is **ergodic theory and dynamical systems**, in particular, I am interested in thermodynamic formalisms of countable-state symbolic systems and interval maps, and their statistical properties. I am supervised by [Mike Todd](https://mtoddm.github.io/) and [Kenneth Falconer](https://kennethfalconer.github.io/). You can find my CV [here](../assets/CV.pdf). <br>
+I am a postdocotoral researcher at Beijing International Centre for Mathematical Research ([BICMR](https://bicmr.pku.edu.cn/content/lists/12_catid54_2.html)) affiliated to the Peking University, and currently in charge of the [Postdoc Seminar](https://bicmr.pku.edu.cn/content/lists/20.html) organising (please contact me if you are interested in giving a talk). My research area is **ergodic theory and dynamical systems**, in particular, I am interested in thermodynamic formalisms of countable-state symbolic systems and interval maps, and their statistical properties. I completed my PhD at the University of St Andrews, under the supervision of [Mike Todd](https://mtoddm.github.io/) and [Kenneth Falconer](https://kennethfalconer.github.io/). You can find my CV [here](../assets/CV.pdf). <br>
 
 # Research Output
 
@@ -26,7 +26,7 @@ BSc Mathematics with Modern Languages, University College London, 2020, First Cl
 
   
 # Other stuff
-<p>I am a good distance runner and an Irish/Scottish flute player. I can also speak Spanish (B2 level) and Portuguese at intermediate level.</p>
+<p>I am a decent distance runner and an Irish/Scottish flute player. I can also speak Spanish (B2 level) and Portuguese at intermediate level.</p>
 
 # Recent Academic activities 
   <li> Attended 'Beyond Uniform Hyperbolicity II' at ICTP Trieste, June 2025. 
