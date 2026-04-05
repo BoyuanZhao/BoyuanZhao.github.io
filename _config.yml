@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "Profile.jpeg"
   name             : "Boyuan Zhao"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "St Andrews, UK"
+  location         : "Beijing, China"
   employer         : #"Red Brick University"
-  uri              : "https://sta-analysis.github.io/"
+  uri              : #"https://sta-analysis.github.io/"
   email            : "boyuan.zhao@pku.edu.cn" 
 
   # Academic websites
