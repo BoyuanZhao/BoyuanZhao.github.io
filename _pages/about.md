@@ -29,7 +29,7 @@ BSc Mathematics with Modern Languages, University College London, 2020, First Cl
 <p>I am a decent distance runner and an Irish/Scottish flute player. I can also speak Spanish (B2 level) and Portuguese at intermediate level.</p>
 
 # Recent Academic activities 
-  <li> Attended 'Frontiers in Dynamical Systems' at PKU, March 2026.</li>\
+  <li> Attended 'Frontiers in Dynamical Systems' at PKU, March 2026.</li>
   <li> Gave a talk on <em>Convergence Rate of Birkhoff spectrum for non-integrable observables </em> at the dynamical system seminar at PKU, March 2026.
   <li> Attended 'British Mathematical Colloquium' at University of Exeter, June 2025.</li>
   <li> Attended 'Beyond Uniform Hyperbolicity II' at ICTP Trieste, June 2025. 
