@@ -10,9 +10,14 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-      body{
-        background: #FFFACD
-      }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #FFFACD;
+  }
+  body {
+    margin-bottom: 0 !important;   /* overrides inline margin */
+  }
       h1{
         color: #000099
         }
