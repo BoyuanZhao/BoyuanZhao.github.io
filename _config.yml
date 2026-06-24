@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Boyuan Zhao/ Mr"
+title                    : "Boyuan Zhao/ Dr"
 title_separator          : "-"
 name                     : "Boyuan Zhao"
-description              : "Fourth year PhD student"
+description              : "Postdoctoral Researcher"
 url                      : "https://BoyuanZhao.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "BoyuanZhao/BoyuanZhao.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Beijing, China"
-  employer         : #"Red Brick University"
+  employer         : "Peking University, BICMR"
   uri              : #"https://sta-analysis.github.io/"
   email            : "boyuan.zhao@pku.edu.cn" 
 
