@@ -16,6 +16,9 @@ I am a postdocotoral researcher at Beijing International Centre for Mathematical
   3. <em>[Countable Markov shifts with exponential mixing](https://arxiv.org/abs/2403.02092)</em>, (joint with Mike Todd) preprint, 2024. [pdf](https://BoyuanZhao.github.io/files/expCMS.pdf) <br>
   4. <em>[Closest distance between iterates of typical points](https://www.aimsciences.org/article/doi/10.3934/dcds.2024026)</em>, Discrete Contin. Dyn. Syst. 44(8), (2024) 2252-2279. [pdf](https://BoyuanZhao.github.io/files/MinimalDistance.pdf)
 
+# Teaching
+I am teaching the module <em>Linear Algebra C </em> at PKU during the fall semestre 2026.
+
 # Education 
 PhD Mathematics, University of St Andrews, 2021-2025, Thesis: <em>Exponential mixing and almost sure limit theorems in dynamical systems. </em> [pdf](../assets/PhD_Thesis.pdf)
 
