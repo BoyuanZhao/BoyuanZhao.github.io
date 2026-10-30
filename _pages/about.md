@@ -11,10 +11,11 @@ I am a postdocotoral researcher at Beijing International Centre for Mathematical
 
 # Research Output
 
-  1. <em>[Convergence of the Birkhoff spectrum for nonintegrable observables](https://arxiv.org/abs/2506.21390)</em>, (joint with Godofredo Iommi and Mike Todd) in press, Math. Z. 2026. [pdf](https://BoyuanZhao.github.io/files/mfa_cusp_MathZver.pdf).
-  2. <em>[Almost sure cover times for dynamical systems with ψ-mixing property](https://arxiv.org/abs/2412.17425) </em>, <em> Ergod. Theory Dynam. Syst.</em>, 46(1) (2026) 320-336. . [link](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1017%2Fetds.2025.10216&data=05%7C02%7Cbz29%40st-andrews.ac.uk%7C0a78446cc27c48c3f39708ddf77260ed%7Cf85626cb0da849d3aa5864ef678ef01a%7C0%7C0%7C638938792974368576%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PABFYZAA4PXKhzCQCYDk5S%2Fa%2BLyBHezTP8%2FYIWYje5c%3D&reserved=0)
-  3. <em>[Countable Markov shifts with exponential mixing](https://arxiv.org/abs/2403.02092)</em>, (joint with Mike Todd) preprint, 2024. [pdf](https://BoyuanZhao.github.io/files/expCMS.pdf) <br>
-  4. <em>[Closest distance between iterates of typical points](https://www.aimsciences.org/article/doi/10.3934/dcds.2024026)</em>, Discrete Contin. Dyn. Syst. 44(8), (2024) 2252-2279. [pdf](https://BoyuanZhao.github.io/files/MinimalDistance.pdf)
+  1. <em>[On record behaviours of returns for interval maps](https://arxiv.org/pdf/2610.39928)</em>, preprint, 2026. [pdf](https://BoyuanZhao.github.io/files/records_return.pdf)
+  2. <em>[Convergence of the Birkhoff spectrum for nonintegrable observables](https://arxiv.org/abs/2506.21390)</em>, (joint with Godofredo Iommi and Mike Todd) in press, Math. Z. 2026. [pdf](https://BoyuanZhao.github.io/files/mfa_cusp_MathZver.pdf). (The published version has a typo in the statement of the main theorem)
+  3. <em>[Almost sure cover times for dynamical systems with ψ-mixing property](https://arxiv.org/abs/2412.17425) </em>, <em> Ergod. Theory Dynam. Syst.</em>, 46(1) (2026) 320-336. . [link](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1017%2Fetds.2025.10216&data=05%7C02%7Cbz29%40st-andrews.ac.uk%7C0a78446cc27c48c3f39708ddf77260ed%7Cf85626cb0da849d3aa5864ef678ef01a%7C0%7C0%7C638938792974368576%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PABFYZAA4PXKhzCQCYDk5S%2Fa%2BLyBHezTP8%2FYIWYje5c%3D&reserved=0)
+  4. <em>[Countable Markov shifts with exponential mixing](https://arxiv.org/abs/2403.02092)</em>, (joint with Mike Todd) preprint, 2024. [pdf](https://BoyuanZhao.github.io/files/expCMS.pdf) <br>
+  5. <em>[Closest distance between iterates of typical points](https://www.aimsciences.org/article/doi/10.3934/dcds.2024026)</em>, Discrete Contin. Dyn. Syst. 44(8), (2024) 2252-2279. [pdf](https://BoyuanZhao.github.io/files/MinimalDistance.pdf)
 
 # Teaching
 I am teaching the module <em>Linear Algebra C </em> at PKU during the fall semestre 2026.
@@ -32,6 +33,7 @@ BSc Mathematics with Modern Languages, University College London, 2020, First Cl
 <p>I am a decent distance runner and an Irish/Scottish flute player. I can also speak Spanish (B2 level) and Portuguese at intermediate level.</p>
 
 # Recent Academic activities 
+  <li> Attended the 1st Hebei International Conference on Dynamical Systems, Hebei Normal University, China, Oct 2026. </li>
   <li> Gave a talk at SIMIS dynamical system seminar, <a href="https://www.simis.cn/convergence-rate-of-the-birkhoff-spectrum-for-non-integrable-observables">link</a></li> 
   <li> Attended 'Frontiers in Dynamical Systems' at PKU, March 2026.</li>
   <li> Gave a talk on <em>Convergence Rate of Birkhoff spectrum for non-integrable observables </em> at the dynamical system seminar at PKU, March 2026.
